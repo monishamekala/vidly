@@ -25,7 +25,9 @@ SECRET_KEY = '@f%3k(xg0+^x=ezra-_%817##cxw1m1*6jcjhervyuwhhc_^y8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'boiling-retreat-62458.herokuapp.com'
+]
 
 
 # Application definition
