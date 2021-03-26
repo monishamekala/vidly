@@ -7,9 +7,11 @@ Step 2: Extract the files
 
 Step 3: Install VS code
 
-Step 4: In Terminal run "python manage.py runserver" command
+Step 4: Open the extracted folder in VS code
 
-Step 5: Open the link in browser from the output
+Step 5: In Terminal run "python manage.py runserver" command
+
+Step 6: Open the link in browser from the output
 
 Vidly is on your screen
 
